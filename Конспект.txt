@@ -236,3 +236,5 @@ GitHub - хранилище репозиторриев
 git add =A - добавить все файлы из рабочей папки
 git add main.css - добавить определённый файлы
 git add *css - добавить все файлы с форматом .css 
+git remote add origin https://github.com/Lion4ik22/project.git - подключить сразу на github
+git push -u origin master - отправка на сервер (но сейчас вместо master используют main)
